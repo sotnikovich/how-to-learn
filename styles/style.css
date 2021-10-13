@@ -308,14 +308,14 @@
   font-weight: normal;
   position: absolute;
   left: 0;
-  bottom: 18px
+  bottom: 18px;
 }
 
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  margin: 0 0 20px
+  margin: 0 0 20px;
 }
 
 .footer__links {
