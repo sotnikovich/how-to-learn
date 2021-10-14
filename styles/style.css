@@ -318,10 +318,16 @@
   margin: 0 0 20px;
 }
 
-.footer__links {
+.footer__column-links {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer__column-link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  margin: 0 0 16px;
 }
 
 .social-icon {
@@ -329,3 +335,4 @@
   height: 16px;
   margin-right: 10px;
 }
+
