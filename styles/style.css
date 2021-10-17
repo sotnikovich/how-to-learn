@@ -114,7 +114,7 @@
   margin: 0;
 }
 
-.span-accent {
+.two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: bold;
@@ -157,6 +157,7 @@
   width: 250px;
   margin-top: 60px;
 }
+
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
@@ -214,6 +215,7 @@
   text-align: right;
   color: #2f80ed;
   text-decoration: none;
+  z-index: 2;
 }
 
 .feynman__main-illustration {
@@ -290,7 +292,7 @@
   right: -210px;
   background-image: url('../images/kaufman-triangle.svg');
   z-index: 1;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -307,7 +309,6 @@
   width: 90%;
   display: flex;
   justify-content: space-around;
-
 }
 
 .logo_place_footer {
