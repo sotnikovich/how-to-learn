@@ -1,0 +1,22 @@
+.kaufman {
+  background-color: #1f1f1f;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.kaufman__triangle {
+  width: 877px;
+  height: 877px;
+  position: absolute;
+  right: -210px;
+  background-image: url('/images/kaufman-triangle.svg');
+  z-index: 1;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  animation: rotation linear 20s infinite;
+}

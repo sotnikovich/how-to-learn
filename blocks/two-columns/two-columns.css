@@ -9,36 +9,10 @@
   font-size: 24px;
 }
 
-.two-columns__brief {
-  width: 175px;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  color: #2f80ed;
-  margin: 0;
-}
 
-.two-columns__main-text {
-  width: 80%;
-  min-width: 784px;
-  min-height: 100%;
-  line-height: 1.2;
-}
 
-.two-columns__paragraph {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  margin-top: 0;
-  margin-bottom: 30px;
-}
 
-.two-columns__paragraph:last-child {
-  margin: 0;
-}
 
-.two-columns__span-accent {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: bold;
-}
+
+
+

@@ -1,0 +1,32 @@
+.footer__columns {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer__column_content_copyright {
+  flex-basis: 711px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 250px;
+}
+
+.footer__column-heading {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 20px;
+}
+
+.footer__column-links {
+  list-style-type: none;
+  margin: 0 0 16px;
+  padding: 0;
+}
+
+.footer__column-link {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
