@@ -5,11 +5,4 @@
   top: 60px;
 }
 
-.video__iframe {
-  margin-right: 20px;
-  border: 0;
-}
 
-.video__iframe:last-child {
-  margin: 0;
-}
