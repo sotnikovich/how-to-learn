@@ -1,13 +1,7 @@
 .table {
-  display: flex;
-  justify-content: space-between;
-  width: 1100px;
-  flex-wrap: wrap;
-  z-index: 3;
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    flex-wrap: wrap;
+    z-index: 3;
 }
-
-
-
-
-
-
