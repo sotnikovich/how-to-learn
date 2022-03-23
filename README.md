@@ -7,3 +7,4 @@
 * z-index
 * анимации
 
+https://sotnikovich.github.io/how-to-learn/
